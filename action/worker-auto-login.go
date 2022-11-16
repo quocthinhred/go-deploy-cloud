@@ -78,7 +78,7 @@ func AutoLoginTask() {
 			fmt.Printf("\n- %s", v)
 		}
 	}
-	fmt.Println("Worker end!")
+	fmt.Println("\nWorker end!")
 }
 
 func payloadToBody(account model.Account) map[string]interface{} {

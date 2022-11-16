@@ -1,0 +1,26 @@
+[
+  {
+    "username": "thinhtq.stg.employee",
+    "password": "*Thinh123",
+    "type": "EMPLOYEE",
+    "domainType": "stg"
+  },
+  {
+    "username": "0345060613",
+    "password": "100699",
+    "type": "CUSTOMER",
+    "domainType": "stg"
+  },
+  {
+    "username": "nhan.tran.stg",
+    "password": "Passjket@0",
+    "type": "EMPLOYEE",
+    "domainType": "stg"
+  },
+  {
+    "username": "real.nhan.tran.stg",
+    "password": "Buymed@0",
+    "type": "EMPLOYEE",
+    "domainType": "stg"
+  }
+]
